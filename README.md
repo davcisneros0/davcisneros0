@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Hey, David here.
+
+Been learning and growing with software development for a few years, and continuing to strive forward. Besides software development, I am familiar with Microsoft 365 and somewhat familiar with Ableton.
+
+Some fun facts about me and what I know:
+- Average house deejay
+- I love cats, so send me all your cat photos!
+- Familiar with HTML5, CSS, JavaScript, Tailwind .... and currently learning more on React!
+- Familiar with PHP, SQL (SQLite and mySQL) ... and currently learning more on PHP
+
 <!--
 **davcisneros0/davcisneros0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
