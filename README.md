@@ -6,7 +6,6 @@ Been learning and growing with software development for a few years, and continu
 
 Some fun facts about me and what I know:
 - Average house deejay
-- I love cats, so send me all your cat photos!
 - Familiar with HTML5, CSS, JavaScript, Tailwind .... and currently learning more on React!
 - Familiar with PHP, SQL (SQLite and mySQL) ... and currently learning more on PHP
 
