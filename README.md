@@ -2,7 +2,7 @@
 
 Hey, David here.
 
-Been learning and growing with software development for a few years, and continuing to strive forward. Besides software development, I am familiar with Microsoft 365 and somewhat familiar with Ableton.
+Been learning software development for a few years, and continuing to learn even more. Besides software development, I am familiar with Microsoft 365 and somewhat familiar with Ableton.
 
 Some fun facts about me and what I know:
 - Average house deejay
